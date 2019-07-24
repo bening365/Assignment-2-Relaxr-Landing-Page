@@ -1,0 +1,27 @@
+h1 {
+    font-family: helvetica;
+    font-weight: 800;
+    font-size: 100px;
+    border: 10px;
+    color: white;
+}
+.title {
+font-size: 50px;
+    padding: 100px 8px 4px 300px;
+    margin:0 20px 0 0 ;
+    color: white;
+}
+
+
+.click-container{
+    text-align: center;
+    
+}
+
+.click{
+    padding: style yellow;
+}
+.lies {
+    border: 400px 0 600px 0;
+   
+}
